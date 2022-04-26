@@ -33,3 +33,6 @@
 
 # Folders
 out/
+
+# Mac
+.DS_Store
